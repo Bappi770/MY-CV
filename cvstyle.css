@@ -1,0 +1,108 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+.container{
+	width: 85%;
+	background-color: #028676;
+	color: #E5ECEE;
+	margin: 0 auto;
+	padding: 25px;
+	border: 5px solid #03a591;
+}
+
+.profile-image{
+	float: left;
+	width: 120px;
+	height: 120px;
+	border: 3px solid #fff;
+	border-radius: 60px;
+}
+.header-bio{
+	float: left;
+	padding: 32px;
+	margin-left: 10px;
+}
+.contact{
+	float: left;
+	padding-top: 40px;
+	margin-left: 270px;
+}
+.contact a{
+	text-decoration: none;
+	color: lightblue;
+}
+.contact a:hover{
+	text-decoration: underline;
+	color: #04e7cb;
+}
+.div-clear{
+	clear: both;
+}
+.hr-header{
+	border: 3px solid black;
+	margin: 20px auto;
+	border-bottom: none;
+}
+/*-------------------------
+END OF HEADER SECTION
+-------------------------*/
+
+/*-------------------------
+START OF MAIN SECTION
+-------------------------*/
+.main{
+
+}
+.left-part{
+	width: 350px;
+	float: left;
+}
+.right-part{
+	width: 750px;
+	float: left;
+}
+.education-left{
+	width: 49%;
+	float: left;
+	
+}
+.education-right{
+	width: 49%;
+	float: left;
+}
+hr{
+	border: 1px solid black;
+	margin: 20px auto;
+	border-bottom: none;
+}
+.container{
+	border-bottom: 0px;
+}
+.footer{
+	width: 88.8%;
+	margin: 0 auto;
+	padding: 15px 0px;
+	background: #027365;
+	border: 5px solid #03a591;
+}
+.footer{
+	border-top: 0px;
+}
+.icon{
+	width: 15%;
+	margin: 20px auto;
+	color: white;
+}
+.footer a i{
+	color: white;
+	margin-right: 8px;
+	margin-left: 8px;
+	text-align: center;
+}
+.footer span h5{
+	color: white;
+	margin-top: 20px;
+	text-align: center;
+}
